@@ -1,0 +1,18 @@
+= Utbildning i SAM (Systematiskt Arbetsmiljöarbete)
+Mikael Hamre <author@asciidoctor.org>
+:toc:
+:icons: font
+
+== Tanken bakom
+
+Tanken bakom denna är att alla ska kunna uppleva arbetslivet som något nyttigt och säkert.
+Man ska inte behöva känna osäker eller riskera skador under sitt arbetsliv.
+
+== Innehåll
+
+Översikt över Arbetsmiljöverkets författningar och krav på SAM.
+
+    - Hur man strukturerar och dokumenterar arbetsmiljöarbetet.
+    - Riskbedömningar och åtgärdsplaner.
+    - Ansvar och roller inom företaget (arbetsgivare, chefer, skyddsombud, anställda).
+
