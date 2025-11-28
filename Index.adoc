@@ -1,7 +1,7 @@
 = ADSA
 
 :author: Mikael Hamre
-:email: hej@mikaelhamre.com
+:email:
 :lang: sv
 :doctype: book
 :icons: font
