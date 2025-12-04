@@ -1,5 +1,5 @@
 = Utbildning i SAM (Systematiskt Arbetsmiljöarbete)
-Mikael Hamre <author@asciidoctor.org>
+Mikael Hamre <mikaelhamre@tutamail.com>
 :toc:
 :icons: font
 
